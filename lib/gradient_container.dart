@@ -22,7 +22,7 @@ class GradientContainer extends StatelessWidget {
         ),
       ),
       child: const Center(
-        child: CustomText(),
+        child: CustomText("Hello Rwanda!"),
       ),
     );
   }
